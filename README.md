@@ -3,7 +3,7 @@
 - 🌱 I’ve been using corporate github for a long time.
 - 💞️ I’m looking to expand network.
 - 📫 You can reach out to me for any professional queries or interest @ savankumar.i.patel@gmail.com
-- 😄 Pronouns: Savankumar Patel
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: 
 > We built ATS -> 
 > We provide solutions and training on how to break ATS!! -> 
