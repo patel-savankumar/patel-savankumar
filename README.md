@@ -2,7 +2,7 @@
 - 👀 I’m interested in exploring github for personal use.
 - 🌱 I’ve been using corporate github for a long time.
 - 💞️ I’m looking to expand network.
-- 📫 You can reach out to me for any professional queries or interest on savankumar.i.patel@gmail.com
+- 📫 You can reach out to me for any professional queries or interest @ savankumar.i.patel@gmail.com
 - 😄 Pronouns: Savankumar Patel
 - ⚡ Fun fact: 
 > We built ATS -> 
